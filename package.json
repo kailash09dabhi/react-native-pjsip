@@ -5,8 +5,8 @@
     "generate-docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
   "author": {
-    "name": "Vadim Ruban",
-    "email": "vadim.ruban@carusto.com"
+    "name": "Kailash Dabhi",
+    "email": "kailash09dabhi@gmail.com"
   },
   "license": "GPL-3.0",
   "bugs": {
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datso/react-native-pjsip.git"
+    "url": "https://github.com/kailash09dabhi/react-native-pjsip.git"
   },
-  "version": "2.8.0"
+  "version": "3.0.0"
 }
